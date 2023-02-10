@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cucumber framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/automation-max](https://github.com/automation-max)
+- 👨‍💻 All of my projects are available at [https://github.com/kanwarchalotra](https://github.com/kanwarchalotra)
 
 - 💬 Ask me about **Core java,Selenium,TestNG.**
 
