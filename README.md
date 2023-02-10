@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Tester from India</h3>
 <img align="right" alt="Coding" width="350" src="https://blog.testproject.io/wp-content/uploads/2022/07/10-Things-Every-New-Software-Tester-Should-Learn-Part-2-822x524.png">
 
-- 🌱 I’m currently learning **Cucumber framework**
+- 🌱 I’m currently learning **Cucumber**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kanwarchalotra](https://github.com/kanwarchalotra)
 
