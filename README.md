@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm kanwar chalotra</h1>
 <h3 align="center">A passionate Freelance Tester from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://blog.testproject.io/2022/07/12/10-things-every-new-software-tester-should-learn-part-2/)">
 
 - 🌱 I’m currently learning **Cucumber framework**
 
